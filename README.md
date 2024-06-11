@@ -12,8 +12,8 @@ Brightness Filter - Diminishes background brightness for better contrast.
 Resposive - Page can be viewed at any dimension.
 
 Technologies Used:
-HTML
-CSS
+HTML,
+CSS,
 Font Awesome
 
 Contributors:
