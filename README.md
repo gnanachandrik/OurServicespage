@@ -6,9 +6,9 @@ The layout features a visually appealing design with centered content and a semi
 ![Screenshot (464)](https://github.com/gnanachandrik/OurServicespage/assets/154501301/fc04c5ab-3686-47c1-8645-74a7571e437f)
 
 Features that I have learned while building this webpage:
-Semi-transparent Background - Enhances readability and focus on content.
-Circular Icons - Adds a modern touch to the service representations.
-Brightness Filter - Diminishes background brightness for better contrast.
+Semi-transparent Background - Enhances readability and focus on content,
+Circular Icons - Adds a modern touch to the service representations,
+Brightness Filter - Diminishes background brightness for better contrast,
 Resposive - Page can be viewed at any dimension.
 
 Technologies Used:
